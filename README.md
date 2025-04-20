@@ -1,93 +1,68 @@
-<div align="center">
-  <img src="https://via.placeholder.com/800x200/0a0a0a/00ffcc?text=NEON+EXPLOIT+PROTOCOL" alt="Cyberpunk Banner" width="800"/>
-  <h1>🔒 I am [Your Name] // [Your Hacker Alias]</h1>
-  <p><i>Digital ghost navigating the neon-lit underbelly of the internet. Decryptor of secrets. Defender of the vulnerable.</i></p>
-</div>
+# 👋 Hello, World! I'm [Soundhar]
+
+🚀 Passionate about building secure, intelligent, and scalable tech.
+
+## 💻 What I Do:
+- 🛡️ Cybersecurity Enthusiast | Penetration Tester
+- 🧠 cyber security researcher |practicioner 
+- ⚙️ Electronics & Communication Engineering Undergrad
+
+  ## 👨‍💻 About Me
+
+Hey! I’m an Electronics and Communication Engineering (ECE) student with a deep passion for **cybersecurity**, **AI**.
+
+- 🧠 My journey started with circuits and signals — now I fuse that with **penetration testing**, **network security**, and **AI-driven threat detection**.
+- 🔐 I love exploring how **hardware and software security intersect**, especially in embedded systems and communication protocols.
+- ⚙️ From learning Data Structures with a red-team mindset to prototyping AI models for national defense, I’m always hacking on something meaningful.
+- 🌐 I believe cybersecurity isn’t just about protection — it’s about **empowering people**, **preserving freedom**, and **safeguarding the future**.
+
+> “In a world run by code and connections, security is the new electricity.”
+
+Let's connect and build something that matters.
+  
+
+## 🧰 Toolbox:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+#### 🛠️ Cybersecurity & Pentesting Tools
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burp-suite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=flat&logo=ghost&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FE7A16?style=flat&logo=aircrack-ng&logoColor=white)
+
+
+## 📈 My GitHub Stats:
+![GitHub Streak](https://streak-stats.demolab.com/?user=soundhar&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+## 🧠 Currently Learning:
+- Data Structures & Algorithms for Security
+- Advanced Malware Analysis
+- Blockchain for Secure Infrastructure
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/soundhar-kumar)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:your.soundhark019@gmail.com)
 
 ---
 
-### 🕸️ Threat Intel: Identity
+> “Innovate. Secure. Defend.” 💡🛡️
+> > 🌐 "Where electronics connect and systems communicate, cybersecurity ensures they survive the chaos of the connected world."
 
-I’m a [your role, e.g., Penetration Tester, Malware Analyst] wired into the cybersecurity grid from [your city/country]. My mission: exploit weaknesses, secure systems, and outsmart the black hats in the digital sprawl.
 
-- 💾 **Codename**: [Your Alias, e.g., NeonSpecter]
-- ⚡ **Core Directive**: [e.g., Hunting zero-days, securing the cloud]
-- 🛡️ **Current Target**: [e.g., Mastering Ghidra, owning HackTheBox]
-- 🌌 **Hidden Payload**: [e.g., I collect vintage floppy disks or brew kombucha]
-- 🎧 **Hacking Soundtrack**: [e.g., Cyberpunk 2077 OST, synthwave]
 
----
 
-### 🔐 Encryption Keys: Skills
 
-| **Domain** | **Threat Level** |
-|:-----------|:-----------------|
-| [Python, Bash, C, etc.] | 🔴 Critical |
-| [Wireshark, Burp Suite, Metasploit, etc.] | 🟠 High |
-| [Linux, Docker, Kubernetes, etc.] | 🟡 Medium |
 
-**Exploit Techniques**:
-- 🕵️‍♂️ Social engineering with phishing finesse
-- 🔍 Reverse-engineering binaries like a digital archaeologist
-- 🛠️ Crafting custom exploits for fun and (ethical) profit
-
----
-
-### 🏴‍☠️ Notable Breaches: Projects & Tools
-
-- **💉 [Project Name 1]**  
-  *A [description, e.g., Python-based vuln scanner exposing SQLi flaws].*  
-  [🔗 Repo](#) | [🧪 Demo](#)
-
-- **🦠 [Project Name 2]**  
-  *A [description, e.g., custom packet sniffer for rogue AP detection].*  
-  [🔗 Repo](#) | [🧪 Demo](#)
-
-- **🔓 [Project Name 3]**  
-  *A [description, e.g., CTF toolkit for automating privilege escalation].*  
-  [🔗 Repo](#) | [🧪 Write-up](#)
-
-*Infiltrate my [Repositories](#) for more payloads!*
-
----
-
-### 🏆 CTF Killchain
-
-- **HackTheBox**: Rank [e.g., Pro Hacker] | [Profile Link](#)
-- **TryHackMe**: Rank [e.g., Top 1%] | [Profile Link](#)
-- **CTFtime**: Team [e.g., NullSec] | [Profile Link](#)
-
-*Recent Conquests*:  
-- [CTF Name 2025]: Cracked the “CryptoVault” challenge in 4 hours.  
-- [CTF Name 2024]: Pwned the “WebFortress” box with a sneaky RCE.
-
----
-
-### 📊 Intrusion Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
-
----
-
-### 📡 Secure Comms: Contact
-
-- 📧 **Encrypted Drop**: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 **Dark Web Node**: [Your Blog/CTF Write-up URL](#)
-- 🐦 **X Signal**: [@YourHandle](https://x.com/YourHandle)
-- 🛡️ **Keybase**: [Your Keybase URL](#)
-
----
-
-<div align="center">
-  <pre>
-   ╔════════════════════════════╗
-   ║  Ready to hack the planet? ║
-   ║  Fork, ping, or join the   ║
-   ║  digital resistance! 💾    ║
-   ╚════════════════════════════╝
-  </pre>
-  <img src="https://via.placeholder.com/300x100/0a0a0a/00ffcc?text=END+TRANSMISSION" alt="Footer Banner"/>
-</div>
+  
