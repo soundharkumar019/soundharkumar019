@@ -39,12 +39,27 @@ Let's connect and build something that matters.
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-000000?style=flat&logo=ghost&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FE7A16?style=flat&logo=aircrack-ng&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logo=nmap&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-61BC00?style=flat&logo=openvas&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-6600CC?style=flat&logo=owasp&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-5B1A1A?style=flat&logo=john&logoColor=white)
+
+#### 🗄️ Database & SQL Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) <!-- (Optional NoSQL addition) -->
+
+#### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 
 ## 📈 My GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=soundhar&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SOUNDHAR&show_icons=true&theme=dark)
+
+## 🧑‍💻 LeetCode Profile
+- 🏅 **LeetCode Profile**: [LeetCode Profile Link](https://leetcode.com/Soundhar007)
 
 ## 🧠 Currently Learning:
 - Data Structures & Algorithms for Security
